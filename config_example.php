@@ -8,7 +8,6 @@ $tbl    = "abos";
 $WebsiteUrl     = "https://YOUR_DOMAIN.COM";
 $WebsiteTitle   = "Pogo Dein Stadtteil";
 $header         = "f&uuml;r den DEIN STADTTEIL Mon IV - Telegram Kanal (nur Innenstadt). Du wirst dem Kanal automatisch nach deiner Zahlung hinzugef&uuml;gt!";
-$showDisclaimer = false;
 
 
 // API Server URL
